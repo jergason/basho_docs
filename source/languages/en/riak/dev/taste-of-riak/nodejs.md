@@ -23,7 +23,7 @@ node ./app.js
 
 ### Client Setup
 
-Install [the Riak NodeJS Client](https://github.com/basho/riak-nodejs-client/wiki/Installation) through [NPM](http://nuget.org/packages/RiakClient).
+Install [the Riak NodeJS Client](https://github.com/basho/riak-nodejs-client/wiki/Installation) through [NPM](https://www.npmjs.com/package/basho-riak-client).
 
 ### Connecting to Riak
 
